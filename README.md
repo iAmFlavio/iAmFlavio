@@ -36,6 +36,7 @@
 ## Projetos
 <div>
   <a href="https://github.com/TrenSpot" target="_blank"><img src="https://avatars.githubusercontent.com/u/181512128?s=200&v=4" alt="TreSpot" height="75" style="border-radius: 25px;"></a>
+  <a href="https://github.com/Candeia3" target="_blank"><img src="https://avatars.githubusercontent.com/u/188801138?s=200&v=4" alt="Candeia" height="75" style="border-radius: 25px;"></a>
 </div>
 
 ---
